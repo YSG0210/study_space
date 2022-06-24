@@ -8,7 +8,7 @@ package com.work01;
 public class Frock {
 
     private int serialNumber;
-    private static int currentNum = 100000;
+    private static int currentNum = 100077;
 
     public Frock(){
         this.serialNumber = this.getNextNum();
