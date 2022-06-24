@@ -17,5 +17,6 @@ public class FrockTest {
         System.out.println("master test");
         System.out.println("dev commit2");
         System.out.println("push test");
+        System.out.println("pull test");
     }
 }
