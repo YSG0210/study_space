@@ -15,6 +15,7 @@ public class FrockTest {
         System.out.println("frock3 = " + frock3.getSerialNumber());
         System.out.println("测试合并分支");
         System.out.println("master test");
+        System.out.println("dev commit2");
 
     }
 }
