@@ -13,7 +13,7 @@ public class FrockTest {
         System.out.println("frock2 = " + frock2.getSerialNumber());
         Frock frock3 = new Frock();
         System.out.println("frock3 = " + frock3.getSerialNumber());
-
+        System.out.println("测试合并分支");
 
     }
 }
